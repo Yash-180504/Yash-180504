@@ -121,20 +121,3 @@
 </div>
 
 ---
-
-<h2 align="center">🚀 Projects</h2>
-
-<p align="center">
-
-🔹 <b>AI Resume Parser</b><br>
-Extracts structured data from resumes using NLP & ML for smarter hiring decisions.<br><br>
-
-🔹 <b>DevOps Automation Pipeline</b><br>
-CI/CD pipeline using Docker, GitHub Actions & Cloud deployment.<br><br>
-
-🔹 <b>Cloud-Based Scalable Web App</b><br>
-Built using React + Node.js deployed on AWS/GCP with high availability.<br><br>
-
-</p>
-
----
