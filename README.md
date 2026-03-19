@@ -93,7 +93,7 @@
 <br><br>
 
 <b>🤖 AI / ML (Market Ready)</b><br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas,scikit-learn,opencv" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
