@@ -4,11 +4,13 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=A960FF&center=true&vCenter=true&width=600&height=45&lines=🚀+Building+Production-Ready+Systems;☁️+Cloud+%7C+DevOps+%7C+Automation;🔧+Turning+Coffee+into+Infrastructure;🌐+Scaling+Systems+to+the+Moon)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=A960FF&center=true&vCenter=true&width=650&height=45&lines=Building+scalable+cloud-native+infrastructure;Docker+%7C+Kubernetes+%7C+AWS+%7C+GCP+%7C+Terraform;CI%2FCD+Pipelines+%7C+GitOps+%7C+Observability;Infrastructure+as+Code+%7C+Site+Reliability+Engineering;Open+to+DevOps+%26+Cloud+Engineering+roles)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yash-180504&style=flat-square&color=blueviolet&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Yash-180504&style=flat-square&color=blueviolet&label=Profile+Views&ignored=Yash-180504)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Yash-180504?style=flat-square&color=blueviolet&label=Followers)&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/Yash-180504?style=flat-square&color=blueviolet&label=Total+Stars)
 
 </div>
 
@@ -19,13 +21,13 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-Name     : Yash Sharma
-Role     : DevOps Engineer
-Focus    : Cloud · Automation · Scalability
-Learning : DevOps & Cloud Native
-Collab   : Open Source & Cloud Projects
-Ask me   : Python · React · DevOps · System Design
-Email    : yashsharmacbsa@gmail.com
+Name       : Yash Sharma
+Role       : DevOps Engineer
+Skills     : Cloud · Containers · CI/CD · IaC · Automation
+Exploring  : SRE · Platform Engineering · FinOps
+Currently  : Building production-grade DevOps pipelines
+Available  : Open to DevOps / Cloud / SRE roles
+Contact    : yashsharmacbsa@gmail.com
 ```
 
 <br clear="right"/>
@@ -62,7 +64,6 @@ Email    : yashsharmacbsa@gmail.com
 </p>
 
 ---
-
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
@@ -111,22 +112,11 @@ Email    : yashsharmacbsa@gmail.com
 
 ---
 
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Yash-180504/Yash-180504/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-180504&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
