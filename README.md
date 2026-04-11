@@ -63,38 +63,36 @@ Email    : yashsharmacbsa@gmail.com
 
 ---
 
+
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <div align="center">
-<table>
-<tr>
-  <td align="center" width="120"><b>☁️ Cloud & DevOps</b></td>
-  <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,nginx,bash,git,github&perline=9"/></td>
-</tr>
-<tr>
-  <td align="center"><b>💻 Backend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=python,nodejs,express,java,c,flask,django&perline=9"/></td>
-</tr>
-<tr>
-  <td align="center"><b>🌐 Frontend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,bootstrap&perline=9"/></td>
-</tr>
-<tr>
-  <td align="center"><b>🗄️ Databases</b></td>
-  <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=9"/></td>
-</tr>
-<tr>
-  <td align="center"><b>🤖 AI / ML</b></td>
-  <td>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=9"/>
-    <br>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/>
-  </td>
-</tr>
-</table>
+
+**☁️ Cloud & DevOps**
+
+![](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,nginx,bash,git,github&perline=9)
+
+**💻 Backend**
+
+![](https://skillicons.dev/icons?i=python,nodejs,express,java,c,flask,django&perline=9)
+
+**🌐 Frontend**
+
+![](https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,bootstrap&perline=9)
+
+**🗄️ Databases**
+
+![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=9)
+
+**🤖 AI / ML**
+
+![](https://skillicons.dev/icons?i=pytorch,tensorflow&perline=9)
+
+![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+
 </div>
 
 ---
