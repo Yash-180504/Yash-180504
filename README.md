@@ -1,86 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:414868&height=200&section=header&text=YASH%20SHARMA&fontSize=48&fontColor=a9b1d6&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%20%7C%20%20Cloud%20%20%7C%20%20Automation%20%20%7C%20%20Scalability&descAlignY=58&descSize=14&descColor=565f89"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yash%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Enthusiast%20%7C%20Automation%20Freak&descAlignY=58&descSize=16&descColor=ffffffcc"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2800&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&height=40&lines=Building+production-ready+infrastructure+%F0%9F%9A%80;Automating+everything+that+can+be+automated+%E2%9A%99%EF%B8%8F;Cloud-native+%7C+Containers+%7C+CI%2FCD+%7C+IaC;Open+to+collaborate+on+cloud-native+projects+%F0%9F%A4%9D)
+<br/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=800&color=A960FF&center=true&vCenter=true&width=600&height=45&lines=🚀+Building+Production-Ready+Systems;☁️+Cloud+%7C+DevOps+%7C+Automation;🔧+Turning+Coffee+into+Infrastructure;🌐+Scaling+Systems+to+the+Moon)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yash-180504&style=flat-square&color=blueviolet&label=Profile+Views)
 
 </div>
 
 ---
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" height="210" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### `~/yash-180504` &nbsp;$&nbsp; `cat whoami.json`
+### 🧑‍💻 About Me
 
-```json
-{
-  "name"              : "Yash Sharma",
-  "role"              : "DevOps Engineer",
-  "currentFocus"      : ["Automation", "Cloud Native", "Scalability"],
-  "learning"          : "DevOps & Cloud Architecture",
-  "askMeAbout"        : ["Python", "React", "DevOps", "System Design"],
-  "contact"           : "yashsharmacbsa@gmail.com",
-  "openToCollaborate" : true
-}
+```yaml
+Name     : Yash Sharma
+Role     : DevOps Engineer
+Focus    : Cloud · Automation · Scalability
+Learning : DevOps & Cloud Native
+Collab   : Open Source & Cloud Projects
+Ask me   : Python · React · DevOps · System Design
+Email    : yashsharmacbsa@gmail.com
 ```
 
 <br clear="right"/>
 
 ---
 
-<h2 align="center">⬡ &nbsp;Connect</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/yashsharma181004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:yashsharmacbsa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
   <a href="https://dev.to/yash1810">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>&nbsp;
   <a href="https://codesandbox.io/u/yash-180504">
-    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=flat-square&logo=codesandbox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white"/>
   </a>&nbsp;
   <a href="https://leetcode.com/yash0518">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>&nbsp;
   <a href="https://www.codechef.com/users/yash0518">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>&nbsp;
   <a href="https://codeforces.com/profile/yash181004">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/yashsharma1810">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">⬡ &nbsp;Tech Stack</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <div align="center">
 <table>
 <tr>
-  <td align="center" width="110"><b>// cloud</b></td>
+  <td align="center" width="120"><b>☁️ Cloud & DevOps</b></td>
   <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,nginx,bash,git,github&perline=9"/></td>
 </tr>
 <tr>
-  <td align="center"><b>// backend</b></td>
+  <td align="center"><b>💻 Backend</b></td>
   <td><img src="https://skillicons.dev/icons?i=python,nodejs,express,java,c,flask,django&perline=9"/></td>
 </tr>
 <tr>
-  <td align="center"><b>// frontend</b></td>
+  <td align="center"><b>🌐 Frontend</b></td>
   <td><img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,bootstrap&perline=9"/></td>
 </tr>
 <tr>
-  <td align="center"><b>// database</b></td>
+  <td align="center"><b>🗄️ Databases</b></td>
   <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&perline=9"/></td>
 </tr>
 <tr>
-  <td align="center"><b>// ai / ml</b></td>
+  <td align="center"><b>🤖 AI / ML</b></td>
   <td>
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=9"/>
     <br>
@@ -95,46 +99,41 @@
 
 ---
 
-<h2 align="center">⬡ &nbsp;GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yash-180504&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yash-180504&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600)
 &nbsp;
-![GitHub Streak](https://streak-stats.demolab.com?user=yash-180504&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yash-180504&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yash-180504&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-<h2 align="center">⬡ &nbsp;Trophies</h2>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yash-180504&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Yash-180504&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-<h2 align="center">⬡ &nbsp;Contribution Graph</h2>
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-180504&theme=tokyo-night&hide_border=true&area=true)
+![Snake animation](https://raw.githubusercontent.com/Yash-180504/Yash-180504/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-180504&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yash-180504&style=flat-square&color=7aa2f7&label=profile+views)
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:0d1117&height=100&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
